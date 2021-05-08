@@ -17,17 +17,18 @@ const Navbar = () => {
         <div className={styles.navbar}>
           <Link to="#" className={styles.menuBars}>
             <FaIcons.FaBars onClick={showSidebar} />
+            MENU
           </Link>
         </div>
         <nav
-          className={sidebar ? `${styles.navMenu} active` : `${styles.navMenu}`}
+          className={
+            !sidebar
+              ? `${styles.navMenu} ${styles.active}`
+              : `${styles.navMenu}`
+          }
+          onClick={showSidebar}
         >
           <ul className={`${styles.navMenuItems}`}>
-            <li className={styles.navbarToggle}>
-              <Link to="#" className={styles.menuBars}>
-                <AiIcons.AiOutlineClose />
-              </Link>
-            </li>
             {SidebarData.map((item, index) => {
               return (
                 <li key={index} className={styles.navText}>
