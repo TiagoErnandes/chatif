@@ -25,7 +25,7 @@ const Chatbot = () => {
         <div className={styles.headerRow} onClick={handleClick}>
           <img
             src={logoifmg}
-            className={logoifmg}
+            className="logoifmg"
             width="21"
             style={{ marginLeft: 6 + "px" }}
           />
