@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chatif/static/css/main.1e511e46.chunk.css",
+    "main.js": "/chatif/static/js/main.89c167dd.chunk.js",
+    "main.js.map": "/chatif/static/js/main.89c167dd.chunk.js.map",
+    "runtime-main.js": "/chatif/static/js/runtime-main.4fe0cf61.js",
+    "runtime-main.js.map": "/chatif/static/js/runtime-main.4fe0cf61.js.map",
+    "static/js/2.4a3fd563.chunk.js": "/chatif/static/js/2.4a3fd563.chunk.js",
+    "static/js/2.4a3fd563.chunk.js.map": "/chatif/static/js/2.4a3fd563.chunk.js.map",
+    "index.html": "/chatif/index.html",
+    "static/css/main.1e511e46.chunk.css.map": "/chatif/static/css/main.1e511e46.chunk.css.map",
+    "static/js/2.4a3fd563.chunk.js.LICENSE.txt": "/chatif/static/js/2.4a3fd563.chunk.js.LICENSE.txt",
+    "static/media/ifmg.28d5adce.png": "/chatif/static/media/ifmg.28d5adce.png",
+    "static/media/imagem.952c0892.jpg": "/chatif/static/media/imagem.952c0892.jpg",
+    "static/media/logo.fe1dfda0.svg": "/chatif/static/media/logo.fe1dfda0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fe0cf61.js",
+    "static/js/2.4a3fd563.chunk.js",
+    "static/css/main.1e511e46.chunk.css",
+    "static/js/main.89c167dd.chunk.js"
+  ]
+}
