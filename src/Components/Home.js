@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styles from "./Home.module.css";
 import Chatbot from "../Components/Chatbot/Chatbot";
-import logoifmg from "./Chatbot/image/ifmg.png";
 const Home = () => {
   return (
     <>

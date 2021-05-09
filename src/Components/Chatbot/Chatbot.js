@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./Chatbot.module.css";
 import logoifmg from "./image/ifmg.png";
+import { ReactComponent as Logo } from "./image/ifmg.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import $ from "jquery";
 
